@@ -10,3 +10,4 @@ My tutorial code for COMP2521 F09B. This repo will get updated week by week afte
 4. [Week 4](week04) - ADTs and binary search trees (BSTs)
 5. [Week 7](week07) - Graphs (i)
 6. [Week 8](week08) - Graphs (ii)
+7. [Week 9](week09) - Hash Tables
